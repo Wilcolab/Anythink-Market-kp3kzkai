@@ -1,0 +1,6 @@
+Task: Write a function in JavaScript that sorts an array of numbers in ascending order.
+
+The function should:
+- Take an array as input
+- Return a new sorted array
+- Not use any built-in sort() method
